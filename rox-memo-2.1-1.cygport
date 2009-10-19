@@ -1,0 +1,7 @@
+inherit rox
+
+
+SRC_URI="mirror://sourceforge/rox/${ORIG_PN}-${PV}.tar.bz2"
+
+ROX_APP="Memo"
+ROX_WRAPPER=${PN}

@@ -1,5 +1,10 @@
 inherit rox
 
+NAME="rox-memo"
+VERSION=2.1
+RELEASE=2
+CATEGORY="ROX"
+SUMMARY="ROX alarm clock and reminders"
 
 SRC_URI="mirror://sourceforge/rox/${ORIG_PN}-${PV}.tar.bz2"
 
